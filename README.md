@@ -2,7 +2,7 @@
   <img src="https://i.loli.net/2017/08/27/59a2ca890206c.gif" style="width:80%" alt="Ishuhui!"/>
 </p>
 
-## Ishuhui
+## Ishuhui Flask Web App
 
 A flask project built for learning. Responsive waterfalls flow by [Masonry](https://masonry.desandro.com/) 
 and real time search by [List.js](http://listjs.com).
